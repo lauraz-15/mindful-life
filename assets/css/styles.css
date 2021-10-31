@@ -1,3 +1,32 @@
-h1 {
-    color: red;
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
 }
+
+/* Headings and logo */
+
+h1 {
+    color: #404040;
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: 400;
+}
+
+
+#logo {
+    font-family: Montserrat, sans-serif;
+    font-weight: 300;
+    color: #404040;
+    font-size: 300%;
+    margin-left: 50px;
+    padding-top: 30px;
+}
+
+a {
+    text-decoration: none;
+}
+
+nav {
+    background-color: #FFE3E3;
+}
+
