@@ -60,12 +60,44 @@ nav {
 /* Main Sections */
 
 section {
-   margin: 50px 150px;
+   margin: 40px 150px;
 }
 
 img {
     width: 100%;
-    /* padding: 10px 0; */
     height: 500px;
 }
 
+/* Types of Mindfulnes */
+
+#types-container {
+    text-align: center;
+}
+
+#types-container > h2 {
+    text-align: center;
+}
+
+#type {
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 50px;
+}
+
+#type > div {
+    width: 33%;
+    height: 33%;
+    margin: 0;
+}
+
+#type > div > img {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    padding: 30px;
+}
+
+#type > div > p {
+    text-align: center;
+    padding: 5px 30px;
+}
