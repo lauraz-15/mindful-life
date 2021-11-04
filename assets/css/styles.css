@@ -144,3 +144,18 @@ img {
     padding: 10px;
 }
 
+/* Final section on home page */
+
+#final {
+    display: flex;
+    justify-content: space-around;
+}
+
+#final > div {
+    width: 47%;
+    padding: 10px;
+}
+
+#final > div > img {
+    margin-top: 20px;
+}
