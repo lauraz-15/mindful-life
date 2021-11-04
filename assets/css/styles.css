@@ -199,7 +199,22 @@ footer {
     color: white;   
 }
 
-footer > p {
+footer > p{
     text-align: center;
     margin-bottom: 2px;
 }
+
+#social {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    font-size: 1.5rem;
+}
+
+ul > li {
+    list-style-type: none;
+}
+/* #social > i {
+    color: white;
+    font-size: 1.5rem;
+} */
