@@ -13,6 +13,10 @@ h1, h2 {
     text-align: left;
 }
 
+h2 {
+    text-align: center;
+}
+
 p {
     font-family: "Work Sans", sans-serif;
     line-height: 1.8;
@@ -101,3 +105,42 @@ img {
     text-align: center;
     padding: 5px 30px;
 }
+
+/* Benefits section */
+
+#benefits {
+    display: flex;
+    justify-content: space-around;
+}
+
+#benefits > div {
+    width: 47%;
+    margin: 10px;
+}
+
+#benefits > div > img {
+    width: 100%;
+    height: auto;
+    padding: 10px;
+}
+
+
+/* 8 Facts */
+
+#facts {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+#facts > div {
+    width: 47%;
+    margin: 5px;
+}
+
+#facts > div > img {
+    height: 50%;
+    width: 100%;
+    padding: 10px;
+}
+
