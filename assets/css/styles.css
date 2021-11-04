@@ -187,7 +187,19 @@ img {
 }
 
 #video > iframe {
-    width: 500px;
-    height: auto;
-    margin-top: 200px;
+    width: 560px;
+    height: 315px;
+}
+
+/* Footer */
+
+footer {
+    height: 250px;
+    background-color: #93B5C6;
+    color: white;   
+}
+
+footer > p {
+    text-align: center;
+    margin-bottom: 2px;
 }
