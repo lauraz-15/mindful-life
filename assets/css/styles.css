@@ -214,6 +214,20 @@ footer > p{
 ul > li {
     list-style-type: none;
 }
+
+#social > li > a > i {
+    font-size: 170%;
+    margin-top: 50px;
+    /* padding: 2%; */
+    color: #FFE3E3;
+    margin-left: 25px;
+}
+
+#social > li > a > p {
+    justify-content: center;
+    font-size: 80%;
+    color: #FFE3E3;
+}
 /* #social > i {
     color: white;
     font-size: 1.5rem;
