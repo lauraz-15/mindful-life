@@ -36,21 +36,21 @@ nav {
     justify-content: space-between;
 }
 
-#logo {
-    font-family: Montserrat, sans-serif;
-    font-weight: 300;
-    color: #404040;
-    font-size: 300%;
-    padding: 20px 30px;
+#logo > img {
+    width: 150px;
+    height: 150px;
+    margin-left: 50px;
+    padding: 10px;
 }
 
 #menu > li {
-    padding: 50px 40px 30px 40px;
+    padding: 90px 60px 40px 40px;
     list-style-type: none;
     display: inline-block;
     font-family: "Montserrat", sans-serif;
-    color: #404040;
+    color: #93B5C6;
     text-transform: uppercase;
+    font-weight: bold;
 }
 
 #menu > li a:hover {
@@ -228,7 +228,4 @@ ul > li {
     font-size: 80%;
     color: #FFE3E3;
 }
-/* #social > i {
-    color: white;
-    font-size: 1.5rem;
-} */
+
