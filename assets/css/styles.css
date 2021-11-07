@@ -25,6 +25,10 @@ p {
 
 /* Navigation */
 
+header {
+    border-bottom: 0.3px solid #C9CCD5;
+}
+
 a {
     text-decoration: none;
     color: inherit;
