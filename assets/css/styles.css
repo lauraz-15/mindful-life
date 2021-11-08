@@ -233,3 +233,10 @@ ul > li {
     color: #FFE3E3;
 }
 
+/********************** Techniques Page ***********************/
+
+#techniques-list {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
