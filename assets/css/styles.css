@@ -233,10 +233,20 @@ ul > li {
     color: #FFE3E3;
 }
 
+
 /********************** Techniques Page ***********************/
 
-#techniques-list {
+#techniques-list > ul {
     display: flex;
-    flex-direction: row;
     justify-content: space-around;
+    color: #93B5C6;
+}
+
+#techniques-list > ul > li > a > i {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 160%;
+    color: #C9CCD5;
+    margin: 15px;
 }
