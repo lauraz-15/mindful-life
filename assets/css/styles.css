@@ -6,15 +6,16 @@
 
 /* Headings and paragraphs */
 
-h1, h2 {
+h1, h2, h3 {
     color: #404040;
     font-family: "Source Sans Pro", sans-serif;
     font-weight: 400;
     text-align: left;
 }
 
-h2 {
+h2, h3 {
     text-align: center;
+    font-weight: bold;
 }
 
 p {
@@ -266,4 +267,8 @@ ul > li {
 
 #meditation-technique > p > a {
     color: #93B5C6;
+}
+
+#journal > ol > li > p {
+    background-color: blue;
 }
