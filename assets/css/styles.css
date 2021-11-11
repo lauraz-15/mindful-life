@@ -186,8 +186,8 @@ img {
 #video {
     display: flex;
     justify-content: center;
-    align-items: baseline;
-    flex-wrap: wrap;
+    /* align-items: baseline;
+    flex-wrap: wrap; */
 }
 
 #video > iframe {
@@ -236,6 +236,8 @@ ul > li {
 
 /********************** Techniques Page ***********************/
 
+/*  Techniques List */
+
 #techniques-list > ul {
     display: flex;
     justify-content: space-around;
@@ -249,4 +251,19 @@ ul > li {
     font-size: 160%;
     color: #C9CCD5;
     margin: 15px;
+}
+
+/* Meditation */
+
+#meditation-technique {
+    display: block;
+}
+
+#meditation-technique > iframe {
+    width: 560px;
+    height: 315px;
+}
+
+#meditation-technique > p > a {
+    color: #93B5C6;
 }
