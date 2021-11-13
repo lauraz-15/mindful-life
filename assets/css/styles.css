@@ -302,3 +302,52 @@ footer > p{
 #mindful-sports {
     margin-bottom: 200px;
 }
+
+
+/********************** Community ***********************/
+
+/* Events section */
+
+#events  {
+    display: flex;
+    justify-content: space-between;
+}
+
+#events > div {
+    border: 3px solid #E4D8DC;
+    padding: 30px;
+    width: 30%;
+    margin: 10px;
+}
+
+#events > div > p {
+    text-align: center; 
+    background:rgba(255,255,255, 0.7);
+}
+
+#events > div > h3 {
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #93B5C6;
+    padding-bottom: 5px;
+    background:rgba(255,255,255, 0.7);
+    font-size: 160%;
+}
+
+#yoga {
+    background-image: url(/assets/images/yoga.jpg);
+    background-repeat: no-repeat;
+    background-size: 300px auto;
+}
+
+#meet {
+    background-image: url(/assets/images/meet.jpg);
+    background-repeat: no-repeat;
+    background-size: 300px auto;
+}
+
+#meditate-together {
+    background-image: url(/assets/images/meditate-together.jpg);
+    background-repeat: no-repeat;
+    background-size: 300px auto;
+}
