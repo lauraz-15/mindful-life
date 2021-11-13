@@ -351,3 +351,45 @@ footer > p{
     background-repeat: no-repeat;
     background-size: 300px auto;
 }
+
+/* Sign-up for newsletters */
+
+#form h3 {
+    color: #93B5C6;
+    text-transform: uppercase;
+    font-size: 170%;
+}
+
+input {
+    border: 1px solid #93B5C6;
+    width: 90%;
+    border-radius: 15px;
+    padding: 15px;
+    margin: 15px auto;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    padding: 40px;
+}
+
+label {
+    font-family: "Work Sans", sans-serif;
+    color: #93B5C6;
+}
+
+button {
+    border: 2px solid #C9CCD5;
+    background-color: #FFE3E3;
+    width: 50%;
+    border-radius: 15px;
+    padding: 15px;
+    margin: 15px auto;
+    font-family: "Work Sans", sans-serif;
+    color: #93B5C6;
+    text-transform: uppercase;
+}
