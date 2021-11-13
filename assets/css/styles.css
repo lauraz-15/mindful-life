@@ -209,15 +209,15 @@ footer > p{
     margin-bottom: 2px;
 }
 
+#social > ul {
+    list-style-type: none;
+}
+
 #social {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
     font-size: 1.5rem;
-}
-
-ul > li {
-    list-style-type: none;
 }
 
 #social > li > a > i {
@@ -243,6 +243,7 @@ ul > li {
     display: flex;
     justify-content: space-around;
     color: #93B5C6;
+    list-style-type: none;
 }
 
 #techniques-list > ul > li > a > i {
@@ -256,10 +257,6 @@ ul > li {
 
 /* Meditation */
 
-#meditation-technique {
-    display: block;
-}
-
 #meditation-technique > iframe {
     width: 560px;
     height: 315px;
@@ -269,6 +266,39 @@ ul > li {
     color: #93B5C6;
 }
 
-#journal > ol > li > p {
-    background-color: blue;
+#journal-technique ol > li {
+    display: flex;
+    justify-content: center;
+}
+
+/* Mindful eating */
+
+#mindful-eating-technique ul {
+    margin-left: 150px;
+}
+
+#mindful-eating-technique > iframe {
+    width: 560px;
+    height: 315px;
+    display: block;
+    margin: 0 auto;
+}
+
+/* Long Walks */
+
+#long-walks ul {
+    margin-left: 150px;
+}
+
+/* Mindful sports */
+
+#mindful-sports > iframe {
+    width: 560px;
+    height: 315px;
+    display: block;
+    margin: 30px auto;
+}
+
+#mindful-sports {
+    margin-bottom: 200px;
 }
