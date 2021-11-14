@@ -86,7 +86,7 @@ The live link can be found here - https://lauraz-15.github.io/mindful-life/
 
 The text for the Mindfulness page is taken from [Mindful.ord](https://www.mindful.org/what-is-mindfulness/)
 
-The text for Techniques page is taken from [Intelligentchange.com](https://www.intelligentchange.com),[Nersworld.com](nersworld.com/training/a22160937/mindfulness-in-running/) and [Healthline.com]https://www.healthline.com/nutrition/mindful-eating-guide)
+The text for Techniques page is taken from [Intelligentchange.com](https://www.intelligentchange.com),[Nersworld.com](nersworld.com/training/a22160937/mindfulness-in-running/) and [Healthline.com](https://www.healthline.com/nutrition/mindful-eating-guide)
 
 
 The icons on techniques page and the footer were taken from [Font Awesome](https://fontawesome.com/v5.15/icons?d=gallery&p=2)
@@ -96,6 +96,8 @@ The icons on techniques page and the footer were taken from [Font Awesome](http
 The photos on all pages were taken from [Pixabay.com](https://pixabay.com/)
 
 The videos on mindfulness page and techniques page were taken from [Youtube.com](https://www.youtube.com/)
+
 The fav icon was generated from [Favicon.io](https://favicon.io/)
+
 The fonts were taken from [Font.google.com](https://fonts.google.com/)
 
