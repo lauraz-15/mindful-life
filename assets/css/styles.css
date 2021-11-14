@@ -11,7 +11,6 @@ h1, h2, h3 {
     font-family: "Source Sans Pro", sans-serif;
     text-transform: uppercase;
     font-weight: 400;
-    text-align: left;
 }
 
 h1 {
@@ -132,30 +131,6 @@ img {
     text-align: center;
 }
 
-/* Benefits section */
-
-#benefits {
-    display: flex;
-}
-/* 
-#benefits > div {
-    width: 47%;
-    margin: 10px;
-} */
-#benefits {
-    padding: 20px;
-}
-
-#benefits > img {
-    width: 300px;
-    height: 200px;
-    padding: 10px;
-}
-
-#benefits > p { 
-    margin: 0 0 0 10px; 
-}
-
 /* 8 Facts */
 
 #facts {
@@ -167,12 +142,6 @@ img {
 #facts > div {
     width: 47%;
     margin: 5px;
-}
-
-#facts > div > img {
-    height: 50%;
-    width: 100%;
-    padding: 10px;
 }
 
 #facts-section > q {
@@ -193,8 +162,6 @@ img {
 #video {
     display: flex;
     justify-content: center;
-    /* align-items: baseline;
-    flex-wrap: wrap; */
 }
 
 #video > iframe {
@@ -491,3 +458,100 @@ form {
 }
 
 }
+
+/* for small screen sizes 800px and down */
+
+@media screen and (max-width: 800px) {
+
+    section {
+        font-size: 160%;
+        margin: 60px 30px;
+    }
+
+    nav {
+       
+    }
+
+    #logo {
+        margin-left: 20px;
+        margin-top: 10px;
+    }
+
+    #menu > li {
+        padding: 10px;
+        display: block;
+        margin-left: 50px;
+        
+    }
+
+    #facts > div {
+        width: 100%;
+        margin: 0;
+    }
+
+    #facts-section > p {
+        text-align: center;
+    }
+
+    #facts {
+        display: block;
+    }
+
+    #facts-section q {
+        font-size: 100%;
+        text-align: center;
+        margin-top: 10px;;
+    }
+
+    #facts-section p {
+        font-size: 70%;
+
+    }
+
+    #type > div {
+        width: 100%;
+    }
+
+    #type {
+        display: block;
+    }
+
+    h2 {
+        font-size: 100%;
+    }
+
+    p {
+        font-size: 90%;
+    }
+}
+
+/* nav {
+    background-color: #FFE3E3;
+    display: flex;
+    justify-content: space-between;
+}
+
+#logo {
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+#logo i {
+    font-size: 230%;
+    color: #93B5C6;
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    color: #93B5C6;
+}
+#menu > li {
+    padding: 40px 50px 30px 30px;
+    list-style-type: none;
+    display: inline-block;
+    font-family: "Montserrat", sans-serif;
+    color: #93B5C6;
+    text-transform: uppercase;
+    font-weight: bold;
+} */
