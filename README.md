@@ -17,9 +17,13 @@ The site hopes to educate and teach helpful practices and connect likeminded peo
 
 Fixed on all three pages, allowing user to easily navigate between all pages without using ‘back’ button or reloading the site. It includes Mindfulness, Techniques and Community pages. Navigation bar also includes logo on the right side, which when clicked will bring the user back to the Main page.
 
+![Nav bar] (https://github.com/lauraz-15/mindful-life/blob/main/assets/readme_images/nav-bar.png)
+
 # Hero Image 
 
 Main image on the home is eye catching and ivites user to scroll down the page and explore further content.
+
+![Hero Image] (https://github.com/lauraz-15/mindful-life/blob/main/assets/hero-image.png)
 
 # Types section
 
