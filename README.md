@@ -23,13 +23,13 @@ Fixed on all three pages, allowing user to easily navigate between all pages wit
 
 Main image on the home is eye catching and ivites user to scroll down the page and explore further content.
 
-![Hero Image]()
+![Hero Image](https://github.com/lauraz-15/mindful-life/blob/main/assets/readme_images/hero-image.png)
 
 ### Types section
 
 This section is organised in the way to enhance the readers experience exploring the subject. Photos and text work together to explain about the different types of mindfulness.The landing page image
 
-![Types](https://github.com/lauraz-15/mindful-life/blob/main/assets/readme_images/hero-image.png)
+![Types](https://github.com/lauraz-15/mindful-life/blob/main/assets/readme_images/types.png)
 
 ### Footer 
 
@@ -86,12 +86,7 @@ The live link can be found here - https://lauraz-15.github.io/mindful-life/
 
 The text for the Mindfulness page is taken from [Mindful.ord](https://www.mindful.org/what-is-mindfulness/)
 
-The text for Techniques page is taken from:
-
-[Intelligentchange.com](https://www.intelligentchange.com)
-
-[Nersworld.com](nersworld.com/training/a22160937/mindfulness-in-running/)
-[Healthline.com]https://www.healthline.com/nutrition/mindful-eating-guide)
+The text for Techniques page is taken from [Intelligentchange.com](https://www.intelligentchange.com),[Nersworld.com](nersworld.com/training/a22160937/mindfulness-in-running/) and [Healthline.com]https://www.healthline.com/nutrition/mindful-eating-guide)
 
 
 The icons on techniques page and the footer were taken from [Font Awesome](https://fontawesome.com/v5.15/icons?d=gallery&p=2)
