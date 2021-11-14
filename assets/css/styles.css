@@ -295,9 +295,6 @@ footer > p{
 
 /* Events section */
 
-#events-section {
-    margin-top: 150px;
-}
 
 #events  {
     display: flex;
@@ -523,35 +520,32 @@ form {
     p {
         font-size: 90%;
     }
-}
 
-/* nav {
-    background-color: #FFE3E3;
-    display: flex;
-    justify-content: space-between;
-}
+    #events {
+        display: block;
+        align-content: center;
+        margin: 200px 10px 30px 0px;
+    }
 
-#logo {
-    margin-left: 50px;
-    margin-top: 20px;
-}
+    #events > div {
+        border: 3px solid #E4D8DC;
+        width: 90%;
+        height: auto;
+    }
+    #sign-up h3 {
+        font-size: 120%;
+    }
 
-#logo i {
-    font-size: 230%;
-    color: #93B5C6;
-    display: flex;
-    justify-content: center;
-}
+    #events > div > h3 {
+        font-size: 90%;
+    }
+    
+    form {
+        width: 80%;
+        margin-left: 0;
+    }
 
-h1 {
-    color: #93B5C6;
+    button {
+        width: 80%;
+    }
 }
-#menu > li {
-    padding: 40px 50px 30px 30px;
-    list-style-type: none;
-    display: inline-block;
-    font-family: "Montserrat", sans-serif;
-    color: #93B5C6;
-    text-transform: uppercase;
-    font-weight: bold;
-} */
