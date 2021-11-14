@@ -360,19 +360,19 @@ footer > p{
 }
 
 #yoga {
-    background-image: url(assets/images/yoga.jpg);
+    background-image: url(/assets/images/yoga.jpg);
     background-repeat: no-repeat;
     background-size: 300px auto;
 }
 
 #meet {
-    background-image: url(assets/images/meet.jpg);
+    background-image: url(/assets/images/meet.jpg);
     background-repeat: no-repeat;
     background-size: 300px auto;
 }
 
 #meditate-together {
-    background-image: url(assets/images/meditate-together.jpg);
+    background-image: url(/assets/images/meditate-together.jpg);
     background-repeat: no-repeat;
     background-size: 300px auto;
 }
@@ -417,4 +417,77 @@ button {
     font-family: "Work Sans", sans-serif;
     color: #93B5C6;
     text-transform: uppercase;
+}
+
+/* media queries */
+
+/* For larger to menium size screens size from 1200px and down */
+
+@media screen and (max-width: 1200px) {
+    section {
+        font-size: 130%;
+        margin: 50px 90px;
+    }
+
+    img {
+        width: 100%;
+        height: auto;
+    }
+
+    #facts-section > q {
+        font-size: 200%;
+    }
+
+    #events > div > h3 {
+        font-size: 120%;
+    }
+
+    #events > div > p {
+        font-size: 80%;
+    }
+
+}
+
+@media screen and (max-width: 950px) {
+     
+#type {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+
+#type > div {
+    width: 33%;
+    height: 33%;
+    margin: 0;
+}
+
+#type > div > img {
+    height: 160px;
+    width: 160px;
+}
+
+#type > div > p {
+    font-size: 80%;
+    margin: 0 20px;
+}
+
+#mindful-eating-technique ul {
+    margin-left: 80px;
+}
+
+#long-walks ul {
+    margin-left: 80px;
+}
+
+#events > div {
+    padding: 10px;
+    margin: 5px;
+    width: 33%;
+}
+
+form {
+    width: 60%;
+}
+
 }
