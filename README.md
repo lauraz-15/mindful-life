@@ -1,5 +1,9 @@
 # Mindful Life
 
+![Logo](https://github.com/lauraz-15/mindful-life/blob/main/assets/readme_images/ml-logo.png)
+
+Link: [Mindful Life] (https://lauraz-15.github.io/mindful-life/index.html)
+
 Mindful Life is a site that explains what is mindfulness and what are the benefits practicing mindfulness daily. Site also includes most popular mindfulness techniques. The content is full of photo and video material to make the learning experience interesting for the reader.
 
 There is a section for events both online and in person. Events such as meditate together, Online Yoga classes, Meet-ups to share practises and achievements. 
