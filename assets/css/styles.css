@@ -159,14 +159,17 @@ img {
 
 /* Video */
 
-#video {
+.video {
     display: flex;
     justify-content: center;
+
 }
 
-#video > iframe {
+iframe {
     width: 560px;
     height: 315px;
+    margin: 30px auto;
+    display: block;
 }
 
 /* Footer */
@@ -277,14 +280,6 @@ footer > p{
     margin-left: 150px;
 }
 
-/* Mindful sports */
-
-#mindful-sports > iframe {
-    width: 560px;
-    height: 315px;
-    display: block;
-    margin: 30px auto;
-}
 
 #mindful-sports {
     margin-bottom: 200px;
@@ -299,6 +294,7 @@ footer > p{
 #events  {
     display: flex;
     justify-content: space-between;
+    margin-top: 130px;
 }
 
 #events > div {
@@ -547,5 +543,13 @@ form {
 
     button {
         width: 80%;
+    }
+
+    #mindful-eating-technique ul {
+        margin-left: 50px;
+    }
+    
+    #long-walks ul {
+        margin-left: 50px;
     }
 }
