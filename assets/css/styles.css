@@ -360,19 +360,19 @@ footer > p{
 }
 
 #yoga {
-    background-image: url(/assets/images/yoga.jpg);
+    background-image: url(assets/images/yoga.jpg);
     background-repeat: no-repeat;
     background-size: 300px auto;
 }
 
 #meet {
-    background-image: url(/assets/images/meet.jpg);
+    background-image: url(assets/images/meet.jpg);
     background-repeat: no-repeat;
     background-size: 300px auto;
 }
 
 #meditate-together {
-    background-image: url(/assets/images/meditate-together.jpg);
+    background-image: url(assets/images/meditate-together.jpg);
     background-repeat: no-repeat;
     background-size: 300px auto;
 }
