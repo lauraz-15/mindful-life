@@ -178,6 +178,7 @@ footer {
     height: 250px;
     background-color: #93B5C6;
     color: white;   
+    margin-bottom: 0;
 }
 
 footer > p{
