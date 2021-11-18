@@ -11,6 +11,35 @@ There is a section for events both online and in person. Events such as meditate
 The target audience are professionals living in a city, living busy city lives, eager to learn ways to stop and reflect, find peace and harmony and connect with likeminded people.
 The site hopes to educate and teach helpful practices and connect likeminded people and spread the knowledge to wider audience. 
 
+![Mockup](https://github.com/lauraz-15/mindful-life/blob/main/assets/readme_images/mockup.png)
+
+## First Time Visitor Goals
+  
+- To easily understand the main purpose of the site and learn more about the organisation.
+- To be able to easily navigate throughout the site to find content.
+- To view the website and content clearly on any device and screen sizes
+- To learn more about mindfulness
+- To find ways how to connect with likeminded people
+- To sign up for newsletter to stay connected and find out about latest events
+
+## Returning Customer Goals
+- To find more content about mindfulness
+- To check event times and dates
+- To review previeously viewed content
+- To practice mindfulness techniques using videos
+
+## Frequent Visitor Goals
+- To communicate with likeminded people
+- To see if there are any new content added
+- To check if there are any new events added
+
+# Design 
+
+The colour pallete is chosen to work with the midfulness theme - neutural and calm, to ensure that design works with the main subject of the website. The colours work together and repeat across the site to ensure consistency and continuity.
+
+The site also has white space around the content that also works well to present the idea of mindfullness. The site is designed to be as simple as possible to ensure user to navigatate easily and intuvitavley. 
+
+
 ## Existing Features
 
 ### Navigation Bar 
