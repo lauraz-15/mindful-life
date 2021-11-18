@@ -9,7 +9,7 @@ Mindful Life is a site that explains what is mindfulness and what are the benefi
 There is a section for events both online and in person. Events such as meditate together, Online Yoga classes, Meet-ups to share practises and achievements. 
 
 The target audience are professionals living in a city, living busy city lives, eager to learn ways to stop and reflect, find peace and harmony and connect with likeminded people.
-The site hopes to educate and teach helpful practices and connect likeminded people and spread the knowledge to wider audience. 
+The goal is to provide helpful information and practices and connect likeminded people as well as spread the knowledge to wider audience. 
 
 ![Mockup](https://github.com/lauraz-15/mindful-life/blob/main/assets/readme_images/mockup.png)
 
@@ -37,7 +37,7 @@ The site hopes to educate and teach helpful practices and connect likeminded peo
 
 The colour pallete is chosen to work with the midfulness theme - neutural and calm, to ensure that design works with the main subject of the website. The colours work together and repeat across the site to ensure consistency and continuity.
 
-The site also has white space around the content that also works well to present the idea of mindfullness. The site is designed to be as simple as possible to ensure user to navigatate easily and intuvitavley. 
+The site also has white space around the content that also works well to present the idea of mindfullness. The site is designed to be as simple as possible to ensure user to navigatate easily and intuitively.
 
 
 ## Existing Features
@@ -50,13 +50,13 @@ Fixed on all three pages, allowing user to easily navigate between all pages wit
 
 ### Hero Image 
 
-Main image on the home is eye catching and ivites user to scroll down the page and explore further content.
+Main image on the home page is designed to be eye catching and invites user to scroll down the page and explore further content.
 
 ![Hero Image](https://github.com/lauraz-15/mindful-life/blob/main/assets/readme_images/hero-image.png)
 
 ### Types section
 
-This section is organised in the way to enhance the readers experience exploring the subject. Photos and text work together to explain about the different types of mindfulness.The landing page image
+This section is organised in the way to enhance the readers experience exploring the subject. Photos and text work together to explain about the different types of mindfulness.
 
 ![Types](https://github.com/lauraz-15/mindful-life/blob/main/assets/readme_images/types.png)
 
