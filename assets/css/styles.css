@@ -7,7 +7,7 @@
 /* Headings and paragraphs */
 
 h1, h2, h3 {
-    color: #93B5C6;
+    color: #4C7A90;
     font-family: "Source Sans Pro", sans-serif;
     text-transform: uppercase;
     font-weight: 400;
@@ -28,7 +28,7 @@ p {
     font-family: "Work Sans", sans-serif;
     line-height: 1.8;
     margin: 20px 0;
-    color: #808080;
+    color: #575757;
 }
 
 /* Navigation */
@@ -64,14 +64,15 @@ nav {
 }
 
 h1 {
-    color: #93B5C6;
+    color: #41697C;
+    font-weight: bold;
 }
 #menu > li {
     padding: 40px 50px 30px 30px;
     list-style-type: none;
     display: inline-block;
     font-family: "Montserrat", sans-serif;
-    color: #93B5C6;
+    color: #41697C;
     text-transform: uppercase;
     font-weight: bold;
 }
@@ -148,7 +149,7 @@ img {
     width: 100%;
     text-align: center;
     justify-content: center;
-    color: #93B5C6;
+    color: #41697C;
     font-style: italic;
     font-size: 3.5rem;
 }
@@ -176,7 +177,7 @@ iframe {
 
 footer {
     height: 250px;
-    background-color: #93B5C6;
+    background-color: #41697C;
     color: white;   
     margin-bottom: 0;
 }
@@ -254,7 +255,7 @@ footer > p{
 }
 
 #meditation-technique > p > a {
-    color: #93B5C6;
+    color: #41697C;
 }
 
 #journal-technique ol > li {
@@ -341,13 +342,13 @@ footer > p{
 /* Sign-up for newsletters */
 
 #form h3 {
-    color: #93B5C6;
+    color: #4C7A90;
     text-transform: uppercase;
     font-size: 170%;
 }
 
 input {
-    border: 1px solid #93B5C6;
+    border: 1px solid #4C7A90;
     width: 90%;
     border-radius: 15px;
     padding: 15px;
@@ -365,7 +366,7 @@ form {
 
 label {
     font-family: "Work Sans", sans-serif;
-    color: #93B5C6;
+    color: #4C7A90;
 }
 
 button {
@@ -376,8 +377,10 @@ button {
     padding: 15px;
     margin: 15px auto;
     font-family: "Work Sans", sans-serif;
-    color: #93B5C6;
+    color: #4C7A90;
     text-transform: uppercase;
+    font-weight: bold;
+    font-size: 120%;
 }
 
 /* media queries */
