@@ -98,20 +98,37 @@ The page containing free, downloadable video and audio material. This would incl
 
 ### Validator Testing
 
+#### HTML
+
 The site passes W3C Validator testing on [W3C Validator](https://validator.w3.org/)
 
-Mindfullness
+### Mindfullness page
 
 ![Mindfulness page](https://github.com/lauraz-15/mindful-life/blob/main/assets/readme_images/mindfullness-w3c.png)
 
-Techniques
+### Techniques page
 
 ![Techniques](https://github.com/lauraz-15/mindful-life/blob/main/assets/readme_images/mindfullness-w3c.png)
 
-Community
+### Community page
 
 ![Community](https://github.com/lauraz-15/mindful-life/blob/main/assets/readme_images/community-w3c.png)
+ 
+#### CSS
 
+The site passes all tests on [CSSjigsaw validator](https://jigsaw.w3.org/)
+
+### Mindfullness page
+
+![Mindfullness](https://github.com/lauraz-15/mindful-life/blob/main/assets/readme_images/css-mindful-life.png)
+
+### Community page
+
+![Techniques](https://github.com/lauraz-15/mindful-life/blob/main/assets/readme_images/css-techniques.png)
+
+### Community page
+
+![Community](https://github.com/lauraz-15/mindful-life/blob/main/assets/readme_images/css-community.png)
 
 ### Unfixed bugs
 
