@@ -98,7 +98,7 @@ The page containing free, downloadable video and audio material. This would incl
 
 ### Validator Testing
 
-#### HTML
+## HTML
 
 The site passes W3C Validator testing on [W3C Validator](https://validator.w3.org/)
 
@@ -114,7 +114,7 @@ The site passes W3C Validator testing on [W3C Validator](https://validator.w3.or
 
 ![Community](https://github.com/lauraz-15/mindful-life/blob/main/assets/readme_images/community-w3c.png)
  
-#### CSS
+## CSS
 
 The site passes all tests on [CSSjigsaw validator](https://jigsaw.w3.org/)
 

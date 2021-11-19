@@ -58,15 +58,24 @@ nav {
 
 #logo i {
     font-size: 230%;
-    color: #93B5C6;
+    color: #41697C;
     display: flex;
     justify-content: center;
+}
+
+#logo i:hover {
+    color: #93B5C6;
 }
 
 h1 {
     color: #41697C;
     font-weight: bold;
 }
+
+h1:hover {
+    color: #93B5C6;
+}
+
 #menu > li {
     padding: 40px 50px 30px 30px;
     list-style-type: none;
@@ -82,6 +91,11 @@ h1 {
 }
 
 .active {
+    font-weight: 700;
+    border-bottom: 1px solid #41697C;
+}
+
+.active:hover {
     border-bottom: 1px solid #93B5C6;
 }
 
@@ -213,24 +227,29 @@ footer > p{
     color: #FFE3E3;
 }
 
+#social > li > a > i:hover {
+    color: #faabab;
+}
 
+#social > li > a > p:hover {
+    color: #faabab;
+}
 /********************** Techniques Page ***********************/
 
-
-#techniques-list h2 {
-    color: #93B5C6;
-    text-transform: uppercase;
-    font-size: 170%;
-    margin-bottom: 30px;
-}
 
 #techniques-list > ul {
     display: flex;
     justify-content: space-around;
-    color: #93B5C6;
+    color: #41697C;
     list-style-type: none;
     background-color: white;
     margin-top: 100px;
+    font-family: "Work Sans", sans-serif;
+    color: #575757;
+}
+
+#techniques-list > ul > li:hover {
+    color: #FFE3E3;
 }
 
 #techniques-list > ul > li > a > i {
@@ -240,7 +259,10 @@ footer > p{
     font-size: 160%;
     color: #C9CCD5;
     margin: 15px;
+}
 
+#techniques-list > ul > li > a > i:hover {
+    color: #FFE3E3;
 }
 
 /* Meditation */
