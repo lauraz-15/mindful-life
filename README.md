@@ -98,6 +98,21 @@ The page containing free, downloadable video and audio material. This would incl
 
 ### Validator Testing
 
+The site passes W3C Validator testing on [W3C Validator](https://validator.w3.org/)
+
+Mindfullness
+
+![Mindfulness page]()
+
+Techniques
+
+![Techniques]()
+
+Community
+
+![Community]()
+
+
 ### Unfixed bugs
 
 ### Deployment
@@ -113,7 +128,7 @@ The live link can be found here - https://lauraz-15.github.io/mindful-life/
 
 ### Content
 
-The text for the Mindfulness page is taken from [Mindful.ord](https://www.mindful.org/what-is-mindfulness/)
+The text for the Mindfulness page is taken from [Mindful.org](https://www.mindful.org/what-is-mindfulness/)
 
 The text for Techniques page is taken from [Intelligentchange.com](https://www.intelligentchange.com),[Nersworld.com](nersworld.com/training/a22160937/mindfulness-in-running/) and [Healthline.com](https://www.healthline.com/nutrition/mindful-eating-guide)
 
