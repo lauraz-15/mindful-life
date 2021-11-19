@@ -102,15 +102,15 @@ The site passes W3C Validator testing on [W3C Validator](https://validator.w3.or
 
 Mindfullness
 
-![Mindfulness page]()
+![Mindfulness page](https://github.com/lauraz-15/mindful-life/blob/main/assets/readme_images/mindfullness-w3c.png)
 
 Techniques
 
-![Techniques]()
+![Techniques](https://github.com/lauraz-15/mindful-life/blob/main/assets/readme_images/mindfullness-w3c.png)
 
 Community
 
-![Community]()
+![Community](https://github.com/lauraz-15/mindful-life/blob/main/assets/readme_images/community-w3c.png)
 
 
 ### Unfixed bugs
