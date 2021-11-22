@@ -11,15 +11,6 @@ h1, h2, h3 {
     font-family: "Source Sans Pro", sans-serif;
     text-transform: uppercase;
     font-weight: 400;
-}
-
-h1 {
-    font-size: 90%;
-    font-weight: bold;
-    letter-spacing: 1px;
-}
-
-h2, h3 {
     text-align: center;
     font-weight: bold;
 }
@@ -67,12 +58,14 @@ nav {
     color: #93B5C6;
 }
 
-h1 {
-    color: #41697C;
-    font-weight: bold;
+#logo h2 {
+    font-size: 120%;
+    letter-spacing: 1px;
+    font-weight: 700;
+
 }
 
-h1:hover {
+#logo h2:hover {
     color: #93B5C6;
 }
 
@@ -318,7 +311,7 @@ footer > p{
 #events  {
     display: flex;
     justify-content: space-between;
-    margin-top: 130px;
+    margin-top: 160px;
 }
 
 #events > div {
@@ -326,6 +319,7 @@ footer > p{
     padding: 30px;
     width: 30%;
     height: 130px;
+    
     margin: 10px;
 }
 
@@ -334,14 +328,14 @@ footer > p{
     background:rgba(255,255,255, 0.7);
 }
 
-#events > div > h3 {
+ #events > div > h3 {
     text-transform: uppercase;
     font-weight: bold;
     color: #4C7A90;
     padding-bottom: 5px;
     background:rgba(255,255,255, 0.7);
     font-size: 160%;
-}
+} 
 
 #yoga {
     background-image: url(../images/yoga.jpg);
