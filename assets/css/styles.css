@@ -453,7 +453,9 @@ button:hover {
 
 #image-404 {
     width: 25%;
-    height: 25%;
+    height: auto;
+    margin: 30px auto;
+    padding: 10px;
 }
 
 #background-404 {
