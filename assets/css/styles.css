@@ -17,6 +17,12 @@ h1, h2, h3 {
     font-weight: bold;
 }
 
+h4 {
+    color: #4C7A90;
+    font-family: "Source Sans Pro", sans-serif;
+    text-align: center;
+}
+
 p {
     font-family: "Work Sans", sans-serif;
     line-height: 1.8;
@@ -445,7 +451,7 @@ button:hover {
     color: #93B5C6;
 }
 
-#imgage-404 {
+#image-404 {
     width: 25%;
     height: 25%;
 }
