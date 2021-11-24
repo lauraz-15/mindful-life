@@ -42,30 +42,30 @@ nav {
     justify-content: space-between;
 }
 
-.logo {
+#logo {
     margin-left: 50px;
     margin-top: 20px;
 }
 
-.logo i {
+#logo i {
     font-size: 230%;
     color: #41697C;
     display: flex;
     justify-content: center;
 }
 
-.logo i:hover {
+#logo i:hover {
     color: #93B5C6;
 }
 
-.logo h2 {
+#logo h2 {
     font-size: 120%;
     letter-spacing: 1px;
     font-weight: 700;
 
 }
 
-.logo h2:hover {
+#logo h2:hover {
     color: #93B5C6;
 }
 
@@ -227,6 +227,7 @@ footer > p{
 #social > li > a > p:hover {
     color: #faabab;
 }
+
 /********************** Techniques Page ***********************/
 
 
@@ -397,6 +398,30 @@ button {
     text-transform: uppercase;
     font-weight: bold;
     font-size: 120%;
+}
+
+
+/********************** 404 Page ***********************/
+
+#page-404 {
+    margin: 0
+}
+
+#img-404 {
+    width: 35%;
+    height: auto;
+}
+
+#background-404 {
+    background-color: #FFE3E3;
+}
+
+#page-404 > h1 {
+    margin-top: 150px;
+}
+
+#page-404 > a {
+    margin-bottom: 150px;
 }
 
 /* media queries */
