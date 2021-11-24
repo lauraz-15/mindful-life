@@ -402,7 +402,7 @@ label {
 button {
     border: 2px solid #C9CCD5;
     background-color: #FFE3E3;
-    width: 50%;
+    width: 70%;
     border-radius: 15px;
     padding: 15px;
     margin: 15px auto;
@@ -413,14 +413,41 @@ button {
     font-size: 120%;
 }
 
+button:hover {
+    background-color: #faabab;
+}
 
 /********************** 404 Page ***********************/
 
+#logo-404 {
+    margin-left: 50px;
+    margin-top: 20px;
+}
 
-#img-404 {
+#logo-404 h2 {
+    font-size: 120%;
+    letter-spacing: 1px;
+    font-weight: 700;
+}
+
+#logo-404 h2:hover {
+    color: #93B5C6;
+}
+
+#logo-404 i {
+    font-size: 230%;
+    color: #41697C;
+    display: flex;
+    justify-content: center;
+}
+
+#logo-404 i:hover {
+    color: #93B5C6;
+}
+
+#imgage-404 {
     width: 25%;
     height: 25%;
-    background-color: red;
 }
 
 #background-404 {
@@ -599,6 +626,7 @@ form {
 
     button {
         width: 80%;
+        font-size: 70%;
     }
 
     #mindful-eating-technique ul {
