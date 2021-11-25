@@ -17,11 +17,11 @@ h1, h2, h3 {
     font-weight: bold;
 }
 
-h4 {
-    color: #faabab;
+h2 {
+    color: #4C7A90;
     font-family: "Source Sans Pro", sans-serif;
     text-align: center;
-    font-size: 120px;
+    font-size: 120%;
 }
 
 p {
@@ -426,6 +426,11 @@ button:hover {
 
 /********************** 404 Page ***********************/
 
+#page-404 h1 {
+    text-transform: capitalize;
+    letter-spacing: 2px;
+}
+
 #logo-404 {
     margin-left: 50px;
     margin-top: 20px;
@@ -464,7 +469,7 @@ button:hover {
 }
 
 #page-404 > h1 {
-    margin-top: 120px;
+    margin-top: 90px;
 }
 
 /* #page-404 > a {
