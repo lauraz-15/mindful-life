@@ -15,6 +15,7 @@ h1, h2, h3 {
     font-weight: 400;
     text-align: center;
     font-weight: bold;
+    letter-spacing: 2px;
 }
 
 h2 {
@@ -279,16 +280,10 @@ footer > p{
     align-items: center;
     font-size: 160%;
     color: #C9CCD5;
-    /* margin: 15px; */
 }
 
 #techniques-list > ul > li > a > i:hover {
-    color: #FFE3E3;
-}
-
-#back-to-top {
-    font-size: 70%;
-    justify-content: right;
+    color: #E4D8DC;
 }
 
 /* Meditation Section */
@@ -311,34 +306,9 @@ footer > p{
     justify-content: center;
 }
 
-#meditation-technique .back-to-top > p {
+.back-to-top > p {
     color: #41697C;
-    margin-left: 75%;
-}
-
-#mindful-sports .back-to-top > p {
-    color: #41697C;
-    margin-left: 75%;
-}
-
-#long-walks .back-to-top > p {
-    color: #41697C;
-    margin-left: 75%;
-}
-
-#mindful-eating-technique .back-to-top > p {
-    color: #41697C;
-    margin-left: 75%;
-}
-
-#morning-pages .back-to-top > p {
-    color: #41697C;
-    margin-left: 75%;
-}
-
-#journal-technique .back-to-top > p {
-    color: #41697C;
-    margin-left: 75%;
+    margin-left: 70%;
 }
 
 /* Mindful eating Section */
@@ -706,4 +676,11 @@ form {
 #events > div {
     margin-top: 30px;
 }
+
+.back-to-top > p {
+    color: #41697C;
+    margin-left: 60%;
+}
+
+    
 }

@@ -37,6 +37,18 @@ The goal is to provide helpful information and practices and connect likeminded 
 
 The colour pallete is chosen to work with the midfulness theme - neutural and calm, to ensure that design works with the main subject of the website. The colours work together and repeat across the site to ensure consistency and continuity.
 
+## Color Palette
+
+Color palette was originally generated from [Colorhunt.co](https://colorhunt.co/palette/93b5c6c9ccd5e4d8dcffe3e3)
+
+![Original color palette](https://github.com/lauraz-15/mindful-life/blob/main/assets/readme_images/mockup.png)
+
+![Hex code color palette](https://github.com/lauraz-15/mindful-life/blob/main/assets/readme_images/mockup.png)
+
+However, later on was adjusted slighty to meet the accessability standards.
+
+![Actual Color Palette](https://github.com/lauraz-15/mindful-life/blob/main/assets/readme_images/mockup.png)
+
 The site also has white space around the content that also works well to present the idea of mindfullness. The site is designed to be as simple as possible to ensure user to navigatate easily and intuitively.
 
 
@@ -161,4 +173,10 @@ The videos on mindfulness page and techniques page were taken from [Youtube.com]
 The fav icon was generated from [Favicon.io](https://favicon.io/)
 
 The fonts were taken from [Font.google.com](https://fonts.google.com/)
+
+# Tools
+
+Color palette was generated from [Colorhunt.co](https://colorhunt.co/palette/93b5c6c9ccd5e4d8dcffe3e3)
+
+Custom color palette was created on [Coolors.co](https://coolors.co/41697c-faabab-e4d8dc-93b5c6-ffe3e3)
 
