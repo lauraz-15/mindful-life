@@ -35,7 +35,7 @@ p {
 
 header {
     border-bottom: 0.3px solid #C9CCD5;
-    position: fixed;
+    position: sticky;
     top: 0;
     width: 100%
 }
@@ -121,7 +121,7 @@ img {
 }
 
 #intro {
-    margin-top: 150px;
+    margin-top: 90px;
 }
 
 /* Types of Mindfulnes */
@@ -249,34 +249,24 @@ footer > p{
 
 /********************** Techniques Page ***********************/
 
-#techniques-nav-bar {
-    position: static;
-}
 
 /* Techniques main list */
 
-#techniques-list {
-    display: flex;
-    justify-content: space-around;
-    flex-wrap: nowrap;
-}
+ #techniques-list {
+    padding-top: 7px;
+    margin-top: 0;
+    background-color: white;
+    padding-bottom: 7px;
+    margin-bottom: 0;
+} 
 
 #techniques-list > ul {
-    display: flex;
+    display: flex; 
     justify-content: space-around;
     color: #41697C;
     list-style-type: none;
-    background-color: white;
-    /* margin-top: 100px; */
     font-family: "Work Sans", sans-serif;
     color: #575757;
-    position: fixed;
-    top: 0;
-    left: 0;
-    z-index: 9999;
-    width: 100%;
-    height: 100px;
-    background-color: #FFE3E3;
 }
 
 #techniques-list > ul > li:hover {
@@ -289,7 +279,7 @@ footer > p{
     align-items: center;
     font-size: 160%;
     color: #C9CCD5;
-    margin: 15px;
+    /* margin: 15px; */
 }
 
 #techniques-list > ul > li > a > i:hover {
@@ -299,7 +289,7 @@ footer > p{
 /* Meditation Section */
 
 #meditation-technique {
-    margin-top: 70px;
+    margin-top: 90px;
 }
 
 #meditation-technique > iframe {
@@ -319,7 +309,7 @@ footer > p{
 /* Mindful eating Section */
 
 #mindful-eating-technique ul {
-    margin-left: 150px;
+    /* margin-left: 150px; */
 }
 
 #mindful-eating-technique > iframe {
@@ -349,7 +339,7 @@ footer > p{
 #events  {
     display: flex;
     justify-content: space-between;
-    margin-top: 160px;
+    margin-top: 90px;
 }
 
 #events > div {
@@ -357,7 +347,6 @@ footer > p{
     padding: 30px;
     width: 30%;
     height: 130px;
-    
     margin: 10px;
 }
 
@@ -446,6 +435,7 @@ button:hover {
 #page-404 h1 {
     text-transform: capitalize;
     letter-spacing: 2px;
+    margin-top: 10px;
 }
 
 #page-404 h2 {
