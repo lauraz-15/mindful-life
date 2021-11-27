@@ -286,6 +286,11 @@ footer > p{
     color: #FFE3E3;
 }
 
+#back-to-top {
+    font-size: 70%;
+    justify-content: right;
+}
+
 /* Meditation Section */
 
 #meditation-technique {
@@ -304,6 +309,36 @@ footer > p{
 #journal-technique ol > li {
     display: flex;
     justify-content: center;
+}
+
+#meditation-technique .back-to-top > p {
+    color: #41697C;
+    margin-left: 75%;
+}
+
+#mindful-sports .back-to-top > p {
+    color: #41697C;
+    margin-left: 75%;
+}
+
+#long-walks .back-to-top > p {
+    color: #41697C;
+    margin-left: 75%;
+}
+
+#mindful-eating-technique .back-to-top > p {
+    color: #41697C;
+    margin-left: 75%;
+}
+
+#morning-pages .back-to-top > p {
+    color: #41697C;
+    margin-left: 75%;
+}
+
+#journal-technique .back-to-top > p {
+    color: #41697C;
+    margin-left: 75%;
 }
 
 /* Mindful eating Section */
