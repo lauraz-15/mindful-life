@@ -657,4 +657,18 @@ form {
     #long-walks ul {
         margin-left: 50px;
     }
+
+    #techniques-list {
+        display: none;
+    }
+
+
+#events  {
+
+    margin-top: 50px;
+}
+
+#events > div {
+    margin-top: 30px;
+}
 }
