@@ -41,13 +41,13 @@ The colour pallete is chosen to work with the midfulness theme - neutural and ca
 
 Color palette was originally generated from [Colorhunt.co](https://colorhunt.co/palette/93b5c6c9ccd5e4d8dcffe3e3)
 
-![Original color palette](https://github.com/lauraz-15/mindful-life/blob/main/assets/readme_images/mockup.png)
+![Original color palette](https://github.com/lauraz-15/mindful-life/blob/main/assets/readme_images/color-palette.png)
 
-![Hex code color palette](https://github.com/lauraz-15/mindful-life/blob/main/assets/readme_images/mockup.png)
+![Hex code color palette](https://github.com/lauraz-15/mindful-life/blob/main/assets/readme_images/color-palette-hex.png)
 
 However, later on was adjusted slighty to meet the accessability standards.
 
-![Actual Color Palette](https://github.com/lauraz-15/mindful-life/blob/main/assets/readme_images/mockup.png)
+![Actual Color Palette](https://github.com/lauraz-15/mindful-life/blob/main/assets/readme_images/actual-color-palette.png)
 
 The site also has white space around the content that also works well to present the idea of mindfullness. The site is designed to be as simple as possible to ensure user to navigatate easily and intuitively.
 
@@ -164,19 +164,22 @@ The text for Techniques page is taken from [Intelligentchange.com](https://www.i
 
 The icons on techniques page and the footer were taken from [Font Awesome](https://fontawesome.com/v5.15/icons?d=gallery&p=2)
 
-### Media
+## Media
 
 The photos on all pages were taken from [Pixabay.com](https://pixabay.com/)
 
 The videos on mindfulness page and techniques page were taken from [Youtube.com](https://www.youtube.com/)
 
-The fav icon was generated from [Favicon.io](https://favicon.io/)
-
-The fonts were taken from [Font.google.com](https://fonts.google.com/)
-
-# Tools
+## Tools
 
 Color palette was generated from [Colorhunt.co](https://colorhunt.co/palette/93b5c6c9ccd5e4d8dcffe3e3)
 
 Custom color palette was created on [Coolors.co](https://coolors.co/41697c-faabab-e4d8dc-93b5c6-ffe3e3)
 
+The fav icon was generated from [Favicon.io](https://favicon.io/)
+
+The fonts were taken from [Font.google.com](https://fonts.google.com/)
+
+404 Page video was taken and customised on [Canva.com](https://www.canva.com/)
+
+404 Page video was converedt into gif using [Ezgif.com](https://ezgif.com/)
