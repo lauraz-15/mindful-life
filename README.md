@@ -135,7 +135,7 @@ The page containing free, downloadable video and audio material. This would incl
 
 Testing was performed on three different browsers: Chrome, Firefox and Apple Safari.
 Some errors were found during the process, nothing major and rectified quickly by adding or replacing some attributes. Repeaded testing was performed once changes were made to ensure all tests were passed. 
-Website was also tested on actual mobile device as well as in depth responsivness testign performed on Google Developer tools. 
+Website was also tested on actual mobile device additionally to in depth responsivness testign performed on Google Developer tools. 
 
 ![Testing](https://github.com/lauraz-15/mindful-life/blob/main/assets/readme_images/testing.png)
 
@@ -172,6 +172,12 @@ The site passes all tests on [CSSjigsaw validator](https://jigsaw.w3.org/)
 ### Community page
 
 ![Community](https://github.com/lauraz-15/mindful-life/blob/main/assets/readme_images/css-community.png)
+
+## Accessability
+
+Accessability was tested using Lighthouse on Google Developer Tools, passmark 100% achieved on all pages.
+
+![Accessability](https://github.com/lauraz-15/mindful-life/blob/main/assets/readme_images/accessability.png)
 
 ### Unfixed bugs
 
