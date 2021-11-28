@@ -521,7 +521,8 @@ button:hover {
 }
 
 #mindful-eating-technique ul {
-    margin-left: 80px;
+    padding-left: 80px;
+    background-color: red;
 }
 
 #long-walks ul {

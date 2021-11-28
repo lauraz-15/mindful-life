@@ -133,6 +133,12 @@ The page containing free, downloadable video and audio material. This would incl
 
 ## Testing
 
+Testing was performed on three different browsers: Chrome, Firefox and Apple Safari.
+Some errors were found during the process, nothing major and rectified quickly by adding or replacing some attributes. Repeaded testing was performed once changes were made to ensure all tests were passed. 
+Website was also tested on actual mobile device as well as in depth responsivness testign performed on Google Developer tools. 
+
+![Testing](https://github.com/lauraz-15/mindful-life/blob/main/assets/readme_images/testing.png)
+
 ### Validator Testing
 
 ## HTML
@@ -179,6 +185,8 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
 The live link can be found here - https://lauraz-15.github.io/mindful-life/
 
 ## Credits
+
+Thank you so much my mentor [Daisy Mc Girr](https://github.com/Daisy-McG) for all the guidance for this project.
 
 ### Content
 
