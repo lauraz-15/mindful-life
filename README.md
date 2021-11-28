@@ -128,8 +128,31 @@ User can enter the contact information to sign up for newsletters. This allows u
 
 ### Forum 
 For users to crate account and communicate via the website. It would work like social media platform for Mindfulness, that would allow users to post and share media content, this would increase the traffic for the site and grow the community to wider audience. 
+
 ### Freebies 
 The page containing free, downloadable video and audio material. This would include different types of mediation courses, podcast interviews and talk shows, courses and scientific experiments related to Mindfulness and health. 
+
+## Tools and Technologies
+
+Color palette was generated from [Colorhunt.co](https://colorhunt.co/palette/93b5c6c9ccd5e4d8dcffe3e3)
+
+Custom color palette was created on [Coolors.co](https://coolors.co/41697c-faabab-e4d8dc-93b5c6-ffe3e3)
+
+The fav icon was generated from [Favicon.io](https://favicon.io/)
+
+The fonts were taken from [Font.google.com](https://fonts.google.com/)
+
+404 Page video was taken and customised on [Canva.com](https://www.canva.com/)
+
+404 Page video was converedt into gif using [Ezgif.com](https://ezgif.com/)
+
+Multi site mockup genrated on [Techsini.com](https://techsini.com/multi-mockup/index.php)
+
+Site was built on deplyed using [Github](https://github.com/)
+
+The website was built using [Git](https://git-scm.com/) version control to commit and push code on to deductaed github raspitory
+
+[Google Developer Tools](https://developer.chrome.com/docs/devtools/) was used to test responsivness and effectively check what changes necessary in css coding to get desired results.
 
 ## Testing
 
@@ -179,9 +202,29 @@ Accessability was tested using Lighthouse on Google Developer Tools, passmark 10
 
 ![Accessability](https://github.com/lauraz-15/mindful-life/blob/main/assets/readme_images/accessability.png)
 
+### Bugs
+
+- Initially had an issue with mobile devise responsivness - the sizing of the video caused nav bar to strectch. Issue was fixed re-sizing and positioning videos using css styles.
+
+- Background images for events section didn't load on deployed webisite, but were loading on local server. Issue was fixed changing file path to relative instead of absolute.
+
+- Some parts of top page content were hidden behing the nav bar, iniitially issue was fixed using margin-top property, however better solution was found later on - the diplay property for the nav-bar was changed from 'fixed' to 'sticky',that solved the issue.
+
+- Techniques page section menu was not 'stuck'to the top of the page. A lot of CSS properties were tested and content changed for techniques page. The issue was easily fixed by moving the menu into header section and adding few style properties, that insured the desired outcome. 
+
 ### Unfixed bugs
 
+- The section menu can't be styled on mobile devices, it takes too much space. ideally would require burger menu, but for that javascript cosing would be required. For that reaon this menu is hidden on mobile devises, however that doesn;t affect the content of the page.
+
 ### Deployment
+
+### Creating the site
+
+The site was created based on [This template](https://github.com/Code-Institute-Org/gitpod-full-template)
+- Click 'Use this template'
+- Change the name
+- Click on 'Create new respository"
+- Once created, clikc on 'Gitpodš
 
 The site was deployed to GitHub pages. The steps to deploy are as follows:
 - In the GitHub repository, navigate to the Settings tab
@@ -209,18 +252,4 @@ The photos on all pages were taken from [Pixabay.com](https://pixabay.com/)
 
 The videos on mindfulness page and techniques page were taken from [Youtube.com](https://www.youtube.com/)
 
-## Tools
 
-Color palette was generated from [Colorhunt.co](https://colorhunt.co/palette/93b5c6c9ccd5e4d8dcffe3e3)
-
-Custom color palette was created on [Coolors.co](https://coolors.co/41697c-faabab-e4d8dc-93b5c6-ffe3e3)
-
-The fav icon was generated from [Favicon.io](https://favicon.io/)
-
-The fonts were taken from [Font.google.com](https://fonts.google.com/)
-
-404 Page video was taken and customised on [Canva.com](https://www.canva.com/)
-
-404 Page video was converedt into gif using [Ezgif.com](https://ezgif.com/)
-
-Multi site mockup genrated on [Techsini.com](https://techsini.com/multi-mockup/index.php)
