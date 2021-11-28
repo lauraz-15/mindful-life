@@ -72,6 +72,18 @@ This section is organised in the way to enhance the readers experience exploring
 
 ![Types](https://github.com/lauraz-15/mindful-life/blob/main/assets/readme_images/types.png)
 
+### Quote
+
+Quote on mindfulness section summerises what is mindfullness in one sentece, it is designed in the way to fit in with the rest of the content. This helps user to understand the content better, since it is presented in slightly different styles, that attracts the readers attension.
+
+![Quote](https://github.com/lauraz-15/mindful-life/blob/main/assets/readme_images/quote.png)
+
+### Video
+
+Site contains few videos, this helps to explain the content with different media and engage the reader further into the subject. Videos are fully repsonsive and work on all screen sizes.
+
+![Video](https://github.com/lauraz-15/mindful-life/blob/main/assets/readme_images/video.png)
+
 ### Footer 
 
 Section is visible at the bottom part of the site on each page, this includes social media links and copyright information. 
@@ -87,6 +99,12 @@ The content includes text, videos and photos to make the user experience more en
 
 ![Techniques](https://github.com/lauraz-15/mindful-life/blob/main/assets/readme_images/techniques.png)
 
+### Back to the top ancors on Tenchiques page
+
+Techniques page contains a lot of content, to help the user not to get lost, small ancor points have been added at the ned of each section. when clicked this will bring the user back to top of the page from where user can navigate to another section, instead of scrolling though the content.
+
+![Ancor](https://github.com/lauraz-15/mindful-life/blob/main/assets/readme_images/ancor-up.png)
+
 ### Events
 
 This section is located on Community page, it includes upcoming events, with event name, time and place. It also includes background image for each event that supports the type of the event. This section will encourage users to sign up for the newsletter to get invitations to these events. 
@@ -98,6 +116,13 @@ This section is located on Community page, it includes upcoming events, with eve
 User can enter the contact information to sign up for newsletters. This allows user to return to the website, get connected with latest news and events as well as interact with the mindful Life community. 
 
 ![Sign-Up](https://github.com/lauraz-15/mindful-life/blob/main/assets/readme_images/sign-up.png)
+
+### 404 Page
+
+404 page has been implemented to ensure that user get directed to the correct link, in case the incorrect address is entered into the browser. It is designed to match styles wiht the rest of the website. it also includes animated gif to make the error page look more appealing and interesting. 
+
+![404-page](https://github.com/lauraz-15/mindful-life/blob/main/assets/readme_images/404.png)
+
 
 ## Features left to implement:
 
@@ -183,3 +208,5 @@ The fonts were taken from [Font.google.com](https://fonts.google.com/)
 404 Page video was taken and customised on [Canva.com](https://www.canva.com/)
 
 404 Page video was converedt into gif using [Ezgif.com](https://ezgif.com/)
+
+Multi site mockup genrated on [Techsini.com](https://techsini.com/multi-mockup/index.php)
