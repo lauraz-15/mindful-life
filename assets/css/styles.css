@@ -192,13 +192,6 @@ img {
 
 }
 
-/* iframe {
-    width: 560px;
-    height: 315px;
-    margin: 30px auto;
-    display: block;
-} */
-
 /* Footer */
 
 footer {
@@ -522,7 +515,6 @@ button:hover {
 
 #mindful-eating-technique ul {
     padding-left: 80px;
-    background-color: red;
 }
 
 #long-walks ul {
