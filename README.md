@@ -200,7 +200,7 @@ The site passes all tests on [CSSjigsaw validator](https://jigsaw.w3.org/)
 
 Accessability was tested using Lighthouse on Google Developer Tools, passmark 100% achieved on all pages.
 
-![Accessability](https://github.com/lauraz-15/mindful-life/blob/main/assets/readme_images/accessability.png)
+![Accessability](https://github.com/lauraz-15/mindful-life/blob/main/assets/readme_images/accessibility.png)
 
 ### Bugs
 
