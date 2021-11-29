@@ -1,4 +1,3 @@
-
 /* Remove page margin and padding */
 * {
     margin: 0;
@@ -8,7 +7,9 @@
 
 /* Headings and paragraphs */
 
-h1, h2, h3 {
+h1,
+h2,
+h3 {
     color: #4C7A90;
     font-family: "Source Sans Pro", sans-serif;
     text-transform: uppercase;
@@ -87,7 +88,7 @@ nav {
 
 /* Navigation links */
 
-#menu > li {
+#menu>li {
     padding: 40px 50px 30px 30px;
     list-style-type: none;
     display: inline-block;
@@ -97,7 +98,7 @@ nav {
     font-weight: bold;
 }
 
-#menu > li a:hover {
+#menu>li a:hover {
     color: #93B5C6;
 }
 
@@ -113,7 +114,7 @@ nav {
 /* Main Sections */
 
 section {
-   margin: 40px 230px;
+    margin: 40px 230px;
 }
 
 img {
@@ -131,7 +132,7 @@ img {
     text-align: center;
 }
 
-#types-container > h2 {
+#types-container>h2 {
     text-align: center;
 }
 
@@ -141,20 +142,20 @@ img {
     margin-top: 30px;
 }
 
-#type > div {
+#type>div {
     width: 33%;
     height: 33%;
     margin: 0;
 }
 
-#type > div > img {
+#type>div>img {
     height: 200px;
     width: 200px;
     border-radius: 50%;
     padding: 30px;
 }
 
-#type > div > p {
+#type>div>p {
     text-align: center;
 }
 
@@ -166,12 +167,12 @@ img {
     justify-content: space-around;
 }
 
-#facts > div {
+#facts>div {
     width: 47%;
     margin: 5px;
 }
 
-#facts-section > q {
+#facts-section>q {
     width: 100%;
     text-align: center;
     justify-content: center;
@@ -180,15 +181,23 @@ img {
     font-size: 3.5rem;
 }
 
-#facts-section > p {
+#facts-section>p {
     text-align: right;
 }
 
 /* Video */
 
 .video {
-    display: flex;
-    justify-content: space-evenly
+    width: 100%;
+}
+
+iframe {
+    width: 80%;
+    margin: 0 auto;
+    display: block;
+    height: 350px;
+    padding-top: 20px;
+    padding-bottom: 25px;
 }
 
 /* Footer */
@@ -196,11 +205,11 @@ img {
 footer {
     height: 250px;
     background-color: #41697C;
-    color: white;   
+    color: white;
     margin-bottom: 0;
 }
 
-footer > p{
+footer>p {
     text-align: center;
     margin-bottom: 2px;
     color: white;
@@ -208,7 +217,7 @@ footer > p{
 
 /* Social links */
 
-#social > li {
+#social>li {
     list-style-type: none;
 }
 
@@ -219,24 +228,24 @@ footer > p{
     font-size: 1.5rem;
 }
 
-#social > li > a > i {
+#social>li>a>i {
     font-size: 170%;
     margin-top: 50px;
     color: #FFE3E3;
     margin-left: 25px;
 }
 
-#social > li > a > p {
+#social>li>a>p {
     justify-content: center;
     font-size: 80%;
     color: #FFE3E3;
 }
 
-#social > li > a > i:hover {
+#social>li>a>i:hover {
     color: #faabab;
 }
 
-#social > li > a > p:hover {
+#social>li>a>p:hover {
     color: #faabab;
 }
 
@@ -245,16 +254,16 @@ footer > p{
 
 /* Techniques main list */
 
- #techniques-list {
+#techniques-list {
     padding-top: 7px;
     margin-top: 0;
     background-color: white;
     padding-bottom: 7px;
     margin-bottom: 0;
-} 
+}
 
-#techniques-list > ul {
-    display: flex; 
+#techniques-list>ul {
+    display: flex;
     justify-content: space-around;
     color: #41697C;
     list-style-type: none;
@@ -262,11 +271,11 @@ footer > p{
     color: #575757;
 }
 
-#techniques-list > ul > li:hover {
+#techniques-list>ul>li:hover {
     color: #FFE3E3;
 }
 
-#techniques-list > ul > li > a > i {
+#techniques-list>ul>li>a>i {
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -274,7 +283,7 @@ footer > p{
     color: #C9CCD5;
 }
 
-#techniques-list > ul > li > a > i:hover {
+#techniques-list>ul>li>a>i:hover {
     color: #E4D8DC;
 }
 
@@ -284,36 +293,19 @@ footer > p{
     margin-top: 90px;
 }
 
-/* #meditation-technique > iframe {
-    width: 560px;
-    height: 315px;
-} */
-
-#meditation-technique > p > a {
+#meditation-technique>p>a {
     color: #41697C;
 }
 
-#journal-technique ol > li {
+#journal-technique ol>li {
     display: flex;
     justify-content: center;
 }
 
-.back-to-top > p {
+.back-to-top>p {
     color: #41697C;
     margin-left: 70%;
 }
-
-/* Mindful eating Section */
-
-#mindful-eating-technique ul {
-    /* margin-left: 150px; */
-}
-
-/* #mindful-eating-technique > iframe {
-    width: 560px;
-    height: 315px;
-   
-} */
 
 /* Long Walks Section */
 
@@ -332,13 +324,13 @@ footer > p{
 /* Events section */
 
 
-#events  {
+#events {
     display: flex;
     justify-content: space-between;
     margin-top: 90px;
 }
 
-#events > div {
+#events>div {
     border: 3px solid #E4D8DC;
     padding: 30px;
     width: 30%;
@@ -346,19 +338,19 @@ footer > p{
     margin: 10px;
 }
 
-#events > div > p {
-    text-align: center; 
-    background:rgba(255,255,255, 0.7);
+#events>div>p {
+    text-align: center;
+    background: rgba(255, 255, 255, 0.7);
 }
 
- #events > div > h3 {
+#events>div>h3 {
     text-transform: uppercase;
     font-weight: bold;
     color: #4C7A90;
     padding-bottom: 5px;
-    background:rgba(255,255,255, 0.7);
+    background: rgba(255, 255, 255, 0.7);
     font-size: 160%;
-} 
+}
 
 #yoga {
     background-image: url(../images/yoga.jpg);
@@ -434,11 +426,11 @@ button:hover {
     letter-spacing: 1px;
 }
 
-#page-404 h2 > a {
+#page-404 h2>a {
     color: #41697C
 }
 
-#page-404 h2 > a:hover {
+#page-404 h2>a:hover {
     color: #93B5C6;
 }
 
@@ -473,15 +465,15 @@ button:hover {
         height: auto;
     }
 
-    #facts-section > q {
+    #facts-section>q {
         font-size: 200%;
     }
 
-    #events > div > h3 {
+    #events>div>h3 {
         font-size: 120%;
     }
 
-    #events > div > p {
+    #events>div>p {
         font-size: 80%;
     }
 
@@ -495,46 +487,46 @@ button:hover {
 }
 
 @media screen and (max-width: 950px) {
-     
-#type {
-    display: flex;
-    justify-content: space-between;
-    margin-top: 30px;
-}
 
-#type > div {
-    width: 33%;
-    height: 33%;
-    margin: 0;
-}
+    #type {
+        display: flex;
+        justify-content: space-between;
+        margin-top: 30px;
+    }
 
-#type > div > img {
-    height: 160px;
-    width: 160px;
-}
+    #type>div {
+        width: 33%;
+        height: 33%;
+        margin: 0;
+    }
 
-#type > div > p {
-    font-size: 80%;
-    margin: 0 20px;
-}
+    #type>div>img {
+        height: 160px;
+        width: 160px;
+    }
 
-#mindful-eating-technique ul {
-    padding-left: 80px;
-}
+    #type>div>p {
+        font-size: 80%;
+        margin: 0 20px;
+    }
 
-#long-walks ul {
-    margin-left: 80px;
-}
+    #mindful-eating-technique ul {
+        padding-left: 80px;
+    }
 
-#events > div {
-    padding: 10px;
-    margin: 5px;
-    width: 33%;
-}
+    #long-walks ul {
+        margin-left: 80px;
+    }
 
-form {
-    width: 60%;
-}
+    #events>div {
+        padding: 10px;
+        margin: 5px;
+        width: 33%;
+    }
+
+    form {
+        width: 60%;
+    }
 
 }
 
@@ -552,19 +544,19 @@ form {
         margin-top: 10px;
     }
 
-    #menu > li {
+    #menu>li {
         padding: 10px;
         display: block;
         margin-left: 50px;
-        
+
     }
 
-    #facts > div {
+    #facts>div {
         width: 100%;
         margin: 0;
     }
 
-    #facts-section > p {
+    #facts-section>p {
         text-align: center;
     }
 
@@ -575,7 +567,8 @@ form {
     #facts-section q {
         font-size: 100%;
         text-align: center;
-        margin-top: 10px;;
+        margin-top: 10px;
+        ;
     }
 
     #facts-section p {
@@ -583,7 +576,7 @@ form {
 
     }
 
-    #type > div {
+    #type>div {
         width: 100%;
     }
 
@@ -609,20 +602,21 @@ form {
         margin: 200px 10px 30px 0px;
     }
 
-    #events > div {
+    #events>div {
         border: 3px solid #E4D8DC;
         width: 90%;
-        height: auto;
+        height: 200px;
+        margin: 30px;
     }
 
     #sign-up h3 {
         font-size: 120%;
     }
 
-    #events > div > h3 {
+    #events>div>h3 {
         font-size: 90%;
     }
-    
+
     form {
         width: 80%;
         /* margin-left: 0; */
@@ -634,9 +628,9 @@ form {
     }
 
     #mindful-eating-technique ul {
-        margin-left: 50px;
+        margin-left: 10px;
     }
-    
+
     #long-walks ul {
         margin-left: 50px;
     }
@@ -646,19 +640,22 @@ form {
     }
 
 
-#events  {
+    #events {
+        margin-top: 50px;
+    }
 
-    margin-top: 50px;
-}
+    #events>div {
+        margin-top: 30px;
+    }
 
-#events > div {
-    margin-top: 30px;
-}
+    .back-to-top>p {
+        color: #41697C;
+        margin-left: 60%;
+    }
 
-.back-to-top > p {
-    color: #41697C;
-    margin-left: 60%;
-}
+    iframe {
+        width: 100%;
+        height: 250px;
+    }
 
-    
 }
