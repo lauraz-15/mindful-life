@@ -188,8 +188,7 @@ img {
 
 .video {
     display: flex;
-    justify-content: center;
-
+    justify-content: space-evenly
 }
 
 /* Footer */
@@ -285,10 +284,10 @@ footer > p{
     margin-top: 90px;
 }
 
-#meditation-technique > iframe {
+/* #meditation-technique > iframe {
     width: 560px;
     height: 315px;
-}
+} */
 
 #meditation-technique > p > a {
     color: #41697C;
@@ -310,12 +309,11 @@ footer > p{
     /* margin-left: 150px; */
 }
 
-#mindful-eating-technique > iframe {
+/* #mindful-eating-technique > iframe {
     width: 560px;
     height: 315px;
-    display: block;
-    margin: 0 auto;
-}
+   
+} */
 
 /* Long Walks Section */
 
@@ -489,6 +487,13 @@ button:hover {
 
 }
 
+@media screen and (max-width: 1200px) {
+
+    #techniques-list {
+        display: none;
+    }
+}
+
 @media screen and (max-width: 950px) {
      
 #type {
@@ -609,6 +614,7 @@ form {
         width: 90%;
         height: auto;
     }
+
     #sign-up h3 {
         font-size: 120%;
     }
