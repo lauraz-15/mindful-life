@@ -92,22 +92,21 @@ Social Media links allows user to connect with community and news of Mindful Lif
 
 ![Footer](https://github.com/lauraz-15/mindful-life/blob/main/assets/readme_images/footer.png)
 
-### Techniques 
+### Techniques menu bar
 
-This page explains the user the differ techniques of mindfulness. The top section includes navigation bar that allows user to easily navigate between sections. 
-The content includes text, videos and photos to make the user experience more entertaining and easy to follow. 
+This techniques menu bar is included as fixed menu within the nav-bar to allow user to easily navigate between sections. The menu bar includes icons to work with text and make the learnign experience more interesting for the user.
 
 ![Techniques](https://github.com/lauraz-15/mindful-life/blob/main/assets/readme_images/techniques.png)
 
 ### Back to the top ancors on Tenchiques page
 
-Techniques page contains a lot of content, to help the user not to get lost, small ancor points have been added at the ned of each section. when clicked this will bring the user back to top of the page from where user can navigate to another section, instead of scrolling though the content.
+Techniques page contains a lot of content, to help the user not to get lost, small ancor points have been added at the end of each section. when clicked this will bring the user back to top of the page from where user can navigate to another section, instead of scrolling though the content.
 
 ![Ancor](https://github.com/lauraz-15/mindful-life/blob/main/assets/readme_images/ancor-up.png)
 
 ### Events
 
-This section is located on Community page, it includes upcoming events, with event name, time and place. It also includes background image for each event that supports the type of the event. This section will encourage users to sign up for the newsletter to get invitations to these events. 
+This section includes upcoming events, each div container includes event name, time and place. It also includes background image for each event that supports the type of the event. This section will encourage users to sign up for the newsletter to receive any upcoming invitations to these events. 
 
 ![Events](https://github.com/lauraz-15/mindful-life/blob/main/assets/readme_images/events.png)
 
@@ -119,7 +118,7 @@ User can enter the contact information to sign up for newsletters. This allows u
 
 ### 404 Page
 
-404 page has been implemented to ensure that user get directed to the correct link, in case the incorrect address is entered into the browser. It is designed to match styles wiht the rest of the website. it also includes animated gif to make the error page look more appealing and interesting. 
+404 page has been implemented to ensure that user get directed to the correct link, in case the incorrect address is entered into the browser. It is designed to match styles with the rest of the website. It also includes animated gif to make the error page look more appealing and interesting. 
 
 ![404-page](https://github.com/lauraz-15/mindful-life/blob/main/assets/readme_images/404.png)
 
@@ -158,7 +157,7 @@ The website was built using [Git](https://git-scm.com/) version control to commi
 
 Testing was performed on three different browsers: Chrome, Firefox and Apple Safari.
 Some errors were found during the process, nothing major and rectified quickly by adding or replacing some attributes. Repeaded testing was performed once changes were made to ensure all tests were passed. 
-Website was also tested on actual mobile device additionally to in depth responsivness testign performed on Google Developer tools. 
+Website was also tested on actual mobile device additionally to in depth responsivness testing performed on Google Developer tools. 
 
 ![Testing](https://github.com/lauraz-15/mindful-life/blob/main/assets/readme_images/testing.png)
 
@@ -204,27 +203,28 @@ Accessability was tested using Lighthouse on Google Developer Tools, passmark 10
 
 ### Bugs
 
-- Initially had an issue with mobile devise responsivness - the sizing of the video caused nav bar to strectch. Issue was fixed re-sizing and positioning videos using css styles.
+- Initially had an issue with mobile device responsivness - the sizing of the video caused nav bar to strectch. Issue was fixed re-sizing and positioning videos using css styles.
 
-- Background images for events section didn't load on deployed webisite, but were loading on local server. Issue was fixed changing file path to relative instead of absolute.
+- Background images for events section didn't load on deployed webisite, but were loading on local server. Issue was fixed changing the file path to relative instead of absolute.
 
 - Some parts of top page content were hidden behing the nav bar, iniitially issue was fixed using margin-top property, however better solution was found later on - the diplay property for the nav-bar was changed from 'fixed' to 'sticky',that solved the issue.
 
-- Techniques page section menu was not 'stuck'to the top of the page. A lot of CSS properties were tested and content changed for techniques page. The issue was easily fixed by moving the menu into header section and adding few style properties, that insured the desired outcome. 
+- Techniques page section menu was not 'stuck'to the top of the page. A lot of CSS properties were tested and content changed for techniques page. The issue was easily fixed by moving the menu into header section and adding a few style properties, that achieved the desired outcome. 
+
 
 ### Unfixed bugs
 
-- The section menu can't be styled on mobile devices, it takes too much space. ideally would require burger menu, but for that javascript cosing would be required. For that reaon this menu is hidden on mobile devises, however that doesn;t affect the content of the page.
+- The section menu can't be styled on mobile devices as it takes too much space. For that reaon this menu is currently hidden on mobile devices. In the future this could be fixed adding burger menu using Javascript.
 
 ### Deployment
 
-### Creating the site
+##### Creating the site
 
 The site was created based on [This template](https://github.com/Code-Institute-Org/gitpod-full-template)
 - Click 'Use this template'
 - Change the name
 - Click on 'Create new respository"
-- Once created, clikc on 'Gitpodš
+- Once created, click on 'Gitpod'
 
 The site was deployed to GitHub pages. The steps to deploy are as follows:
 - In the GitHub repository, navigate to the Settings tab
@@ -235,7 +235,7 @@ The live link can be found here - https://lauraz-15.github.io/mindful-life/
 
 ## Credits
 
-Thank you so much my mentor [Daisy Mc Girr](https://github.com/Daisy-McG) for all the guidance for this project.
+Thank you so much my mentor [Daisy Mc Girr](https://github.com/Daisy-McG) for all the guidance throughout this project.
 
 ### Content
 
